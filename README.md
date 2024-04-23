@@ -1,7 +1,7 @@
 <html>
 <body style="background-color:black">
 <main>
-<h1 style="color:rgb(150, 153, 0)">Пасивні Навички</h1>
+<h1 style="text-align:center;color:rgb(150, 153, 0)">Пасивні Навички</h1>
 <h2 style="color:green"><b>Мішочок яду змії</b></h2>
 <p style="color:rgb(150, 153, 0)">Маючи цей <b style="color:orange">легендарний</b> предмет ви маєте стійкість до ядів, вогню та різних смертельних здібностей магії</b></p>
 <h2 style="color:red"><b>Мастер Клинків</b></h2>
