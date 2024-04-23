@@ -15,6 +15,8 @@
 <h2 style="color:purple"><b>Площадь Тіней LvL 2</b></h2>
 <p style="color:rgb(150, 153, 0)">Маючи цю навичку ви можете ви можете посилити своїх тіней на 5 год.</p>
 <p style="color:rgb(150, 153, 0)">Перезярядка: 30 хв.</p>
+<h2 style="color: gray"><b>Прихованість</b></h2>
+<p style="color:rgb(150, 153, 0)">Маючи цю навичку ви можете ви можете приховати себе, запах та звук кроків</p>
 </main>
 <footer style="background-color:black">
 <a href="https://ketsero.github.io/Information/">Повернутись назад--></a>
